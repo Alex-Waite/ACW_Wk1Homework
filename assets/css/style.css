@@ -26,10 +26,6 @@ body {
     padding: 4px;
     border-radius: 15px;
     color: black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    border-bottom: 2px solid black;
-    border-top: 2px solid black; 
 }
 
 .header h1 {
@@ -55,7 +51,7 @@ body {
 
 .link:hover {
     color: black;
-    background-color: darkorange;
+    background-color: white;
     padding-top: 7px;
     padding-right: 7px;
     padding-left: 7px;
@@ -178,7 +174,8 @@ p {
     max-height: 200px;
 }
 
-.infobox h2 {
+.infobox .headingLeft{
+    margin-left: 23%;
     margin-bottom: 20px;
     font-size: 42px;
     font-family: 'Roboto';
@@ -187,12 +184,19 @@ p {
     padding: 4px;
     border-radius: 15px;
     color: black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    border-bottom: 2px solid black;
-    border-top: 2px solid black; 
 }
 
+.infobox .headingRight{
+    margin-right: 23%;
+    margin-bottom: 20px;
+    font-size: 42px;
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    background-color: white;
+    padding: 4px;
+    border-radius: 15px;
+    color: black;
+}
 /* FOOTER */
 
 .footer {
