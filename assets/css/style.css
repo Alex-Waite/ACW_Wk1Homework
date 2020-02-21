@@ -37,8 +37,17 @@ body {
     font-size: 20px;
 }
 
-.navtext:hover {
-    
+.link {
+    transition: 0.3s;
+}
+
+.link:hover {
+    color: black;
+    background-color: darkorange;
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-bottom: 7px;
 }
 
 .header .nav ul {
