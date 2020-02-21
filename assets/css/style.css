@@ -48,6 +48,7 @@ body {
     padding-right: 7px;
     padding-left: 7px;
     padding-bottom: 7px;
+    border-radius: 15px;
 }
 
 .header .nav ul {
