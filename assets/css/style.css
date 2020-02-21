@@ -178,7 +178,7 @@ p {
     margin-left: 23%;
     margin-bottom: 20px;
     font-size: 42px;
-    font-family: 'Roboto';
+    font-family: 'Roboto' , sans-serif;
     letter-spacing: 1px;
     background-color: white;
     padding: 4px;
@@ -190,7 +190,7 @@ p {
     margin-right: 23%;
     margin-bottom: 20px;
     font-size: 42px;
-    font-family: 'Roboto';
+    font-family: 'Roboto' , sans-serif;
     letter-spacing: 1px;
     background-color: white;
     padding: 4px;
